@@ -85,11 +85,6 @@ Each notebook produces:
 
 ---
 
-## 👤 Author
-Divyansh Rawat
-
----
-
 ## 📎 Notes
 - Iterations in PageRank may be reduced for faster execution
 - Output correctness is maintained even with fewer iterations
